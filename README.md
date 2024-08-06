@@ -1,2 +1,10 @@
-# Python-App-to-executable
-Shows that how YOU can turn your python code to turn it into an executable file.
+# Sample Code App
+
+This is a simple PyQt5 application that opens a window with the title "Turtle Code."
+
+## Setup
+
+To set up the project, install the required dependencies:
+
+```bash
+pip install -r requirements.txt
